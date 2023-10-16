@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="(https://github.com/MurilloCouto/cadastro-produtos)" target="_blank">
+	<a href="(https://github.com/MurilloCouto/consumindoApi)" target="_blank">
 		<img src="consumindoApi.png" alt="IntroImage" width="50%"/>
 	</a>
 </div>
@@ -19,7 +19,7 @@ Site para consulta de CEP e previsão do tempo, utilizando API's grátis dispon�
 <hr>
 
 ### Está online? 📡
-SIM! Basta [clicar aqui](https://cadastro-produtos-dnc.netlify.app/) para visualizar o site que está hospedado nos servidores da Netlify.
+SIM! Basta [clicar aqui](https://consumodeapis.netlify.app/) para visualizar o site que está hospedado nos servidores da Netlify.
 <hr>
 
 by Murillo Couto<br>
